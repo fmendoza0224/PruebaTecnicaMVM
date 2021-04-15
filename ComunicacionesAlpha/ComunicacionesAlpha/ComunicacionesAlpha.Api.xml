@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ComunicacionesAlpha.Api</name>
+    </assembly>
+    <members>
+        <member name="M:ComunicacionesAlpha.Api.Controllers.RegistroCorrespondenciaController.CrearRegistroCorrespondencia(ComunicacionesAlpha.Aplicacion.Dtos.RegistroCorrespondenciaDto)">
+            <summary>
+            CrearRegistroCorrespondencia
+            </summary>
+            <param name="registroCorrespondenciaDto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ComunicacionesAlpha.Api.Controllers.RegistroCorrespondenciaController.ConsultarRegistroCorrespondencia(System.Int64)">
+            <summary>
+            ConsultarRegistroCorrespondencia
+            </summary>
+            <param name="numeroDocumentoRemitente"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ComunicacionesAlpha.Api.Controllers.RegistroCorrespondenciaController.ModificarRegistroCorrespondencia(ComunicacionesAlpha.Aplicacion.Dtos.RegistroYAuditoriaDto)">
+            <summary>
+            ModificarRegistroCorrespondencia
+            </summary>
+            <param name="registroYAuditoriaDto"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
